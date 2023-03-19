@@ -1,6 +1,9 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+axios, styled-components, react-router-dom와 실시간 뉴스 api를 이용하여 
+뉴스앱 생성.
+
+(문제사항 : 해당 뉴스 api의 한국 기사에는 description, urlToImage가 null로 설정되어 있어 임의의 값을 넣음)
 
 ## Available Scripts
 
